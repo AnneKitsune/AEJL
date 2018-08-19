@@ -203,10 +203,4 @@ public class AustelEngine {
 		//URL url = new URL("http://austelclient.net/project/" + getAccess_token() + ".php");
 		//URLConnection con = url.openConnection();
 	}
-	
-	public static void main(String[] args) {
-		AustelEngine austel = new AustelEngine("4957w95_23592qwdau3u", "3D Java Game with AustelEngine", Platform.PS4, Product.PS4);
-		austel.setSize(1280, 720);
-		austel.setFullscreen(true);
-	}
 }
