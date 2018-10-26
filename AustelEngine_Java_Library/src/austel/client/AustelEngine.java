@@ -33,29 +33,13 @@ public class AustelEngine {
         System.out.println("	Made with AustelEngine 1.0 Alpha Release and AEJL(AustelEngineJavaLibrary) 1.0 beta	");
         System.out.println("		AustelEngine, a product of Nietsloh Inc. © All rights reserved. | 2016-2018");
         System.out.println("-----------------------------------------------------------------------------------------------------");
-        try {
-			Thread.sleep(600);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
+        
         System.out.println("-> Launching: " + project_name);
-        try {
-			Thread.sleep(600);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
+        
         System.out.println("-> Platform deployment: " + platform);
-        try {
-			Thread.sleep(600);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
+        
         System.out.println("        -------------------------------------------------------------------------------------");
-        try {
-			Thread.sleep(600);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
+        
         
         //TODO TOKEN DETECTION AND NAME DETECTION IN PHP  
         
